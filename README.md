@@ -56,7 +56,7 @@ python src/evaluate.py --weights results/best_model.pth
 | Average Episode Length | 1500 steps |
 
 <p align="center">
-  <img src="experiments/logs/run_2025_01/ reward_curve.png" width="450">
+  <img src="experiments/logs/run_2025_01/reward_curve.png" width="450">
 </p>
 
 ## 📦 Repository Structure
