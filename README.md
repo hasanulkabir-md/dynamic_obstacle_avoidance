@@ -1,4 +1,3 @@
-````markdown
 # Video-Based Dynamic Obstacle Avoidance Using Deep Reinforcement Learning
 
 This repository contains the code, experiments, and results for my Master's research project on **video-based dynamic obstacle avoidance** using **Deep Reinforcement Learning (DRL)** at *Nanjing Normal University (Project 211)*.
