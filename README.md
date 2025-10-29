@@ -16,7 +16,7 @@ To develop a real-time video-based obstacle avoidance system that allows mobile 
 - **Extension:** Initial experiments on **federated RL** and **adversarial robustness** for secure multi-robot navigation.
 
 <p align="center">
-  <img src="https://github.com/hasanulkabir-md/dynamic_obstacle_avoidance/tree/main/docs" width="600">
+  <img src="dynamic_obstacle_avoidance/blob/main/docs/network_architecture.png" width="600">
 </p>
 
 ## ⚙️ Dependencies
